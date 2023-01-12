@@ -1,4 +1,4 @@
-# Git-Ignore-Redemption
+# Fix-GitIgnore-Redemption
 Here's a step-by-step guide on how to fix the mistake of not using a `.gitignore` file before uploading files to your repository:
  
  1. Locate a suitable .gitignore file [Here](https://github.com/github/gitignore) and download it .
