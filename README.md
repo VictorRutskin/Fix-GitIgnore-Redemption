@@ -8,6 +8,7 @@ Here's a step-by-step guide on how to fix the mistake of not using a `.gitignore
  5. Run the command `git rm -r --cached .` .
  6. Run the command  `git add .` .
  7. Run the command `git commit -m "Drop files from .gitignore"` .
+ 8. Run the command `git push` to push the changes.
  
  Note: If you have a folder with a space in its name, such as `My Git`, make sure to include the `\` character before the space in the path, like this: `My\ Git`.
  
